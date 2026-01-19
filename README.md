@@ -4,6 +4,9 @@
 ![code-size](https://img.shields.io/github/languages/code-size/josehu07/madkv?color=steelblue)
 ![license](https://img.shields.io/github/license/josehu07/madkv?color=green)
 
+> [!IMPORTANT]
+> Please do not fork publicly or publish solutions online.
+
 This is the distributed key-value (KV) store project template for the Distributed Systems course (CS 739) at the University of Wisconsin--Madison. Through a few steps over the semester, students will build MadKV, a replicated, partitioned, consensus-backed, fault-tolerant, performant, and extensible key-value store system in any language of their choice.
 
 Recommended project steps over a semester:
@@ -421,8 +424,6 @@ STOP  # confirm STOP before exit
 Assume all keys and values are ASCII alphanumeric, case-sensitive strings. All keywords are also case-sensitive. All spaces are regular spaces and the number of them does not matter.
 
 ---
-
-**PLEASE DO NOT FORK PUBLICLY OR PUBLISH SOLUTIONS ONLINE.**
 
 Authored by [Guanzhou Hu](https://josehu.com). First offered in CS 739 Spring 2025 taught by [Prof. Andrea Arpaci-Dusseau](https://pages.cs.wisc.edu/~dusseau/). To get the associated project specs and a reference solution in Rust for teaching purposes, please contact us!
 
